@@ -1,6 +1,8 @@
 data = {
     // Jan 2
     "Azfarul Islam Surjo" : "01/02/",
+    // Jan 6
+    "Sazia Rumana Mou" : "01/06/",
     // Jan 8
     "Rajesh Singha" : "01/08/",
     // Jan 22
@@ -30,6 +32,8 @@ data = {
     
     // July 21
     "Rezvi Bin Islam" : "07/21/",
+    // July 27
+    "Arif" : "07/27",
     
     // Aug 1
     "Tarik Adnan" : "08/01/",
@@ -49,8 +53,6 @@ data = {
     
     // Oct 5
     "Masud Jahan" : "10/05/",
-    // Oct 16 
-    "Sazia Rumana Mou" : "10/16/",
     // Oct 17
     "Saqib Haider" : "10/17/",
     // Oct 19
@@ -66,6 +68,6 @@ data = {
     "Afia Farzana" : "12/10/",
     // Dec 29
     "Gofran Khan" : "12/29/",
-    // Sep 18, 19912694220000010, 1991-12-18
+    // Sep 18
     "Tasin Nawaz" : "09/18/"
 }
